@@ -1,0 +1,24 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "''\u001b[DSolution of \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\"\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C module 1\"",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ossama-ismaili/module1.git"
+  },
+  "author": "Ossama Ismili\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ca\u001b[C\u001b[C\u001b[D\u001bili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ossama-ismaili/module1/issues"
+  },
+  "homepage": "https://github.com/ossama-ismaili/module1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
