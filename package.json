@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ossama-ismaili/module1#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.6.1"
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
